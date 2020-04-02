@@ -1,6 +1,6 @@
 ---
 layout: blocks
-title: Hello World
+title: Hello XXXX
 date: 2020-04-01 13:00:00 +0000
 page_sections:
 - template: 1-column-text
