@@ -7,6 +7,5 @@ page_sections:
   block: one-column-1
   headline: Hello XXXX
   content: Here is some test content
-published: false
 
 ---
