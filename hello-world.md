@@ -3,6 +3,9 @@ layout: blocks
 title: Hello XXXX
 date: 2020-04-01 13:00:00 +0000
 page_sections:
+- template: simple-header
+  block: header-3
+  logo: ''
 - template: 1-column-text
   block: one-column-1
   headline: Hello XXXX
