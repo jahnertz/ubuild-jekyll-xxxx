@@ -16,7 +16,7 @@ page_sections:
   email_recipient: ''
 - template: simple-footer
   block: footer-1
-  content: ''
+  content: "© Club Braindance Corp. 2020"
 
 ---
 foo bar
